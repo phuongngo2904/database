@@ -1,0 +1,1 @@
+select l.lib_id, l.lib_name from lib l where l.u_id=@user_id;

@@ -1,0 +1,1 @@
+select m_name, date_created, last_modified,type from material where lib_id=@libid order by type;

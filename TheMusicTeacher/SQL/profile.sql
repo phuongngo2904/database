@@ -1,0 +1,1 @@
+Select username,fname,minit,lname,dob,gender,phone,last_login from user where u_id =@id;

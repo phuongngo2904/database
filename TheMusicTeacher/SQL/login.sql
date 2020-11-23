@@ -1,0 +1,1 @@
+SELECT u_id, username, hashed_password FROM user WHERE username = @user_username;
